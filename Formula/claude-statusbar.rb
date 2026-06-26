@@ -1,8 +1,8 @@
 class ClaudeStatusbar < Formula
   desc "macOS menu-bar dashboard light for Claude Code"
   homepage "https://github.com/rikenpatel20/claude-statusbar"
-  url "https://github.com/rikenpatel20/claude-statusbar/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "435c48198df99ee2eeee2b50d062f787ab1c2dbfa48d8e47970bc2400f94d0c8"
+  url "https://github.com/rikenpatel20/claude-statusbar/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "c7663450ce8bcead83244f9da837edf99501785caf0f13cbd540b2874553ebee"
   license "MIT"
 
   depends_on :macos
